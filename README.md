@@ -7,3 +7,9 @@
   alt="Übersicht widget that displays cryptocoin prices from Binance"
   title="Übersicht widget that displays cryptocoin prices from Binance"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
