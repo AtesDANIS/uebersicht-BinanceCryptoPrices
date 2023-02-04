@@ -1,4 +1,4 @@
-# uebersicht-BinanceCryptoPrices
+# Widget for <a href="http://tracesof.net/uebersicht/" target="_blank">Übersicht</a>
 
 Übersicht widget that displays cryptocoin prices from Binance.
 No need to provide any credientials, it uses Binance Public API.
