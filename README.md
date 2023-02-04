@@ -9,7 +9,10 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
+
+You can edit symbols array to change your favorite cryptos on Binance.
+
+
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+line7: let symbols = ["ETHUSDT", "BTCUSDT", "BUSDUSDT", "PAXGUSDT"];
 ```
