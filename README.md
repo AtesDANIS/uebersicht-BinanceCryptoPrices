@@ -12,7 +12,7 @@ No need to provide any credientials, it uses Binance Public API.
 
 
 
-You can edit list by changing symbols array on line 7.
+You can edit list by changing symbols array on line 7 of uebersicht-BinanceCryptoPrices.jsx
 
 
 ```javascript
