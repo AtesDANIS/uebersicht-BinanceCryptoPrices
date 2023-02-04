@@ -1,6 +1,7 @@
 # uebersicht-BinanceCryptoPrices
 
 Übersicht widget that displays cryptocoin prices from Binance.
+No need to provide any credientials, it uses Binance Public API.
 
 <img
   src="/uebersicht-BinanceCryptoPrices.png"
